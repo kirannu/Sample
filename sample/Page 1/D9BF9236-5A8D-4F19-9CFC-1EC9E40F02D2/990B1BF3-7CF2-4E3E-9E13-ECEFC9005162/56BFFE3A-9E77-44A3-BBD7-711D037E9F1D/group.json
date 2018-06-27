@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "56BFFE3A-9E77-44A3-BBD7-711D037E9F1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 206,
+    "x": 16,
+    "y": 55
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "408B80A1-EDF0-4AD8-BC6D-2F2D048C62B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "825DCBC7-156D-4A88-9B6E-B15AECF6EE7A"
+    },
+    {
+      "class": "group",
+      "id": "058995F0-313E-4578-A985-966206044D72"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D154BA8-4C5D-4240-AEC9-F40B21B34866"
+    }
+  ],
+  "name": "Playback Controls",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

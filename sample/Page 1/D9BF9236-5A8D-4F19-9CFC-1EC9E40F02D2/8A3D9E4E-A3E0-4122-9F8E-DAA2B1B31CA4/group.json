@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8A3D9E4E-A3E0-4122-9F8E-DAA2B1B31CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 120,
+    "x": 27,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B39C6EC8-D6A8-4FE0-91FA-E18AE6C7B2FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1CFE2FC-8979-4E42-A333-9084DB23F6DA"
+    }
+  ],
+  "name": "Window Controls",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

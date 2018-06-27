@@ -1,0 +1,117 @@
+{
+  "_class": "page",
+  "do_objectID": "4BCB2625-601B-4976-8955-76B00CC01346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "1C24BF8A-82BE-4E5A-B6F0-93EF43B9ABD3"
+    },
+    {
+      "class": "artboard",
+      "id": "488F211D-5062-4254-A23F-86E9430A5AB3"
+    },
+    {
+      "class": "artboard",
+      "id": "D9BF9236-5A8D-4F19-9CFC-1EC9E40F02D2"
+    },
+    {
+      "class": "artboard",
+      "id": "24D64CCF-BB81-47BE-9794-4ED11C180A04"
+    },
+    {
+      "class": "artboard",
+      "id": "71E544C0-8181-46BC-AA0C-C35FC15BDA04"
+    },
+    {
+      "class": "group",
+      "id": "CA40767B-CFF3-455D-81D4-042BAA506A49"
+    },
+    {
+      "class": "group",
+      "id": "D3C79425-5FB8-4999-A784-290E6ED17FEE"
+    },
+    {
+      "class": "group",
+      "id": "617C525A-555D-455A-AD83-BB118DFF7D43"
+    },
+    {
+      "class": "group",
+      "id": "26ED712D-656C-4A41-8F88-AF193C55CAEA"
+    },
+    {
+      "class": "group",
+      "id": "D0C57D97-AD85-4014-AEDC-CB6A2C0BFB9E"
+    },
+    {
+      "class": "group",
+      "id": "9254A362-F913-47A1-B0E0-955FBFC7B35E"
+    },
+    {
+      "class": "group",
+      "id": "45E9FEA6-B11F-49A1-B278-55D680BFA8C4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

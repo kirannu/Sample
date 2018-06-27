@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7445B39E-C13D-4635-8E05-A4BE3BCFEE1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 289,
+    "x": 16,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25CFD981-F536-4A5F-9586-72C078A6082E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D79514C5-8FAB-4E02-9F50-A85E2910DF39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54396C44-5D51-4913-A753-2679BB4A70B8"
+    },
+    {
+      "class": "text",
+      "id": "3A4F604E-8502-4EE1-BE82-049C19A5DB6C"
+    },
+    {
+      "class": "text",
+      "id": "FD3D25F4-385A-456C-9DFA-8CC9521123C8"
+    }
+  ],
+  "name": "Scrubber",
+  "nameIsFixed": true,
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

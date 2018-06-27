@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6F7E4A28-4555-47C6-AD34-763AD77AC153",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 163,
+    "x": 16,
+    "y": 652
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "419BA052-D1AC-4F3D-876F-4D0859556F75"
+    },
+    {
+      "class": "text",
+      "id": "89348237-62E5-487E-BBEA-9596F637B65E"
+    },
+    {
+      "class": "group",
+      "id": "FCB15438-1415-4FAF-873D-391007B8BA8F"
+    },
+    {
+      "class": "text",
+      "id": "2F6D865B-FD48-452A-BC8A-3BA87329998A"
+    }
+  ],
+  "name": "Trailer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
